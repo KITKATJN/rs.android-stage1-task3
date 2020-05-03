@@ -41,4 +41,5 @@ class CombinatorTests {
         val result = combinator.checkChooseFromArray(arrayOf(184756, 20))
         assertEquals(10, result)
     }
+
 }
